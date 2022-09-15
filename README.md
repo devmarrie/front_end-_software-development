@@ -1,2 +1,2 @@
-![data science image](https://github.com/devmarrie/Data_Science/blob/master/images/datasc.jpg?raw=true)
+![data science image](https://github.com/devmarrie/front_end_software-development/blob/master/images/reactjs.jpg?raw=true)
 # front end software development
